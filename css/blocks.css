@@ -1,0 +1,33 @@
+﻿.header {
+    background-color: forestgreen;
+    font-size: 25px;
+    font-style: italic;
+    width: 70%;
+    height: 4%;
+    position: absolute;
+    left: 15%;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.lang {
+    position: relative;
+    left: 9%;
+    top: 5%;
+    width: 15%;
+}
+
+.content {
+    width: 70%;
+    position:absolute;
+    left: 15%;
+    top: 2%;
+    justify-content;
+}

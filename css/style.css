@@ -1,0 +1,30 @@
+﻿body {
+    background-image: url('../img/background.jpg');
+    color: red;
+    background-size: cover;
+}
+
+.code {
+    margin-left: 20px;
+}
+
+.code2 {
+    margin-left: 40px;
+}
+
+.code3 {
+    margin-left: 60px;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+p {
+    font-size: 22px;
+}
+
+code {
+    font-size: 18px;
+    color: darkorange;
+}
